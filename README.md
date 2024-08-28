@@ -17,4 +17,3 @@ Sample setup for building C++ files using Clang & LLVM
 - [Clang Compiler User’s Manual &#8212; Clang 18.1.8 documentation](https://releases.llvm.org/18.1.8/tools/clang/docs/UsersManual.html#basic-usage)
 - [About LLVM 20.0.0](https://llvm.org/docs/)
 - [Clang Tutorial Part I: Introduction | Bits, Bytes, Boos](https://kevinaboos.wordpress.com/2013/07/23/clang-tutorial-part-i-introduction/)
-- 
